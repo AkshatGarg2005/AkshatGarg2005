@@ -1,18 +1,46 @@
-# 💫 About Me:
-🚧 I’m currently working on an E-commerce site for a local clothing store with client and admin-side functionality.<br>👯 I’m looking to collaborate on interesting web development and open-source projects.<br>🤝 I’m looking for help with improving backend architecture and frontend UI/UX.<br>🌱 I’m currently learning React.js, Node.js, and database management.<br>💬 Ask me about web development, databases, and coding challenges.<br>
+# Hi, I'm Akshat Garg
 
+Final-year Computer Science student at **VIT Bhopal** (B.Tech '27) and **AWS Certified Solutions Architect – Associate**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akshatgarg2005/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-garg-vitbhopal/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24309022) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AkshatTheCoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshat.23bce10641@vitbhopal.ac.in) 
+I build full-stack apps that replace paper-and-spreadsheet workflows, and I've shipped applied ML — from a RAG chatbot to reinforcement-learning agents — during my AI/ML internship at **MPOnline Limited** (Govt. of Madhya Pradesh × TCS).
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkshatGarg2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkshatGarg2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGarg2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[Portfolio](https://akshatgarg2005.vercel.app) · [LinkedIn](https://www.linkedin.com/in/akshat-garg-vitbhopal/) · [Email](mailto:akshatgarg0280@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkshatGarg2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured projects
+
+**[Om Academy](https://github.com/AkshatGarg2005/om-academy-solan)** — Management system for a coaching institute, replacing paper registers for 414 students. Role-based access for admins, teachers and students, automated fee alerts (99.3% on-time collection) and 6,952+ attendance records digitized.<br>
+`React 19` `Firebase Auth` `Cloud Firestore` · [Live](https://om-academy-solan-beta.vercel.app)
+
+**[Nourishfy](https://github.com/AkshatGarg2005/Nourishfy)** — AI nutrition companion that turns a user's health profile into weekly meal plans and grocery lists. Built with a team of five; live on web, Android and iOS.<br>
+`React` `Firebase` `Gemini API` `Tailwind CSS` · [Live](https://nourishfy.vercel.app)
+
+**[AI/ML Projects](https://github.com/AkshatGarg2005/MPONLINE-Assignment-and-Project-Submission-Record)** — Nine projects from my MPOnline internship: a RAG chatbot over Amazon's 10-Q with grounded citations, a brain-tumor MRI classifier, CIFAR-10 and face-recognition CNNs, PPO agents and a Flask-deployed price predictor.<br>
+`Python` `TensorFlow` `scikit-learn` `FastAPI` `FAISS` `Stable-Baselines3`
+
+**[IntelliQrHelp](https://github.com/AkshatGarg2005/intelliqrhelp)** — QR-based emergency medical profile: one scan gives a first responder blood group, allergies and next-of-kin contacts, plus one-tap SOS alerts via Telegram.<br>
+`React 19` `Firebase` `Telegram Bot API` · [Live](https://intelliqrhelp.vercel.app)
+
+---
+
+## Tech stack
+
+- **Languages:** Java · Python · JavaScript · C++ · HTML/CSS
+- **Frontend:** React · Tailwind CSS
+- **Backend & data:** Node.js · Firebase (Auth, Firestore) · MySQL · FastAPI · Flask
+- **ML / AI:** TensorFlow · scikit-learn · Stable-Baselines3 · FAISS · Gemini API
+- **Cloud & tools:** AWS · Git · Vercel · Render
+
+---
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate (2026)
+- AWS Certified AI Practitioner (2026)
+- AWS Certified Cloud Practitioner (2026)
+- Oracle Certified Foundations Associate – Java (2025)
+
+---
+
+Open to **Software Engineer** and **ML Engineer** roles for 2027 — reach me at [akshatgarg0280@gmail.com](mailto:akshatgarg0280@gmail.com).
